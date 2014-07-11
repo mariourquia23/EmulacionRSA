@@ -19,14 +19,11 @@ namespace WebServices_GLT
     {
 
         [WebMethod]
-        public Boolean RSAUserAuthentication(String user, int token)
+        public Boolean autenticarRSA(int passCode, String usuario)
         {
             RSA_GLT rsa = new RSA_GLT();
-            return rsa.TokenExist(user,token);
-            /*
-            if (user == "jurquia" && token == "123")
-                return true;
-            else return false;*/
+            Boolean resultado=rsa.TokenExist(usuario,passCode);
+            return resultado;
         }
     }
 }
