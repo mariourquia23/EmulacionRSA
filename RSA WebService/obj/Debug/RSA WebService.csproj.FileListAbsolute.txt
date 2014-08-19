@@ -1,0 +1,5 @@
+c:\users\josemario\documents\visual studio 2013\Projects\RSA WebService\RSA WebService\bin\RSA WebService.dll.config
+c:\users\josemario\documents\visual studio 2013\Projects\RSA WebService\RSA WebService\bin\RSA WebService.dll
+c:\users\josemario\documents\visual studio 2013\Projects\RSA WebService\RSA WebService\bin\RSA WebService.pdb
+c:\users\josemario\documents\visual studio 2013\Projects\RSA WebService\RSA WebService\obj\Debug\RSA WebService.dll
+c:\users\josemario\documents\visual studio 2013\Projects\RSA WebService\RSA WebService\obj\Debug\RSA WebService.pdb

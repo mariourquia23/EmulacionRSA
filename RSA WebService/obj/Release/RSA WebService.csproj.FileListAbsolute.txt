@@ -1,0 +1,8 @@
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\obj\Release\RSA WebService.csprojResolveAssemblyReference.cache
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\obj\Release\RSA_WebService.Properties.Resources.resources
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\obj\Release\RSA WebService.csproj.GenerateResource.Cache
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\bin\RSA WebService.dll.config
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\bin\RSA WebService.dll
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\bin\RSA WebService.pdb
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\obj\Release\RSA WebService.dll
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\RSA WebService\RSA WebService\obj\Release\RSA WebService.pdb
